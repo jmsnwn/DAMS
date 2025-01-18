@@ -1,8 +1,5 @@
-DAM - Defense Activated Management
+# DAM - Defense Activated Management
 
 SIEM Application
 
-Andrew Phan
-Gabriel de Leon
-James Nguyen
-Philip Nguyen
+Andrew Phan Gabriel de Leon James Nguyen Philip Nguyen
