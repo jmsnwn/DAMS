@@ -1,4 +1,4 @@
-# DAM - Defense Activated Management System
+# DAMS - Defense Activated Management System
 
 SIEM Application
 
